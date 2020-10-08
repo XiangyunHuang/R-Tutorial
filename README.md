@@ -6,6 +6,8 @@
 - 《R 语言资料卡片》中文版 <https://github.com/sunbjt/r_reference>
 - 《R导论》中文版 <https://github.com/DingGuohui/R-intro-cn>
 - 《R 语言高频问题》<https://cran.r-project.org/doc/contrib/Liu-FAQ.pdf> 由刘思喆收集自中文论坛，非 Kurt Hornik 维护的官方文档
+- 《R 和 **tidyverse** 快速入门》 <https://github.com/saghirb/Getting-Started-in-R>  Saghir Bashir
+- 《R 和 **tinyverse** 快速入门》 <https://github.com/eddelbuettel/gsir-te> Dirk Eddelbuettel
 
 适合入门的书籍：
 
@@ -43,7 +45,6 @@
 - bookdown: Authoring Books and Technical Documents with R Markdown <https://bookdown.org/yihui/bookdown/>
 - blogdown: Creating Websites with R Markdown <https://bookdown.org/yihui/blogdown/>
 - R Markdown: The Definitive Guide <https://bookdown.org/yihui/rmarkdown/>
-- R Markdown Cookbook <https://bookdown.org/yihui/rmarkdown-cookbook/>
 - Reproducible Research with R and RStudio <https://github.com/christophergandrud/Rep-Res-Book>
 
 与 shiny 相关：
@@ -69,6 +70,9 @@
 - 《机器翻译：统计建模与深度学习方法》肖桐 朱靖波 著 <https://opensource.niutrans.com/mtbook/>
 - 《南瓜书》 <https://datawhalechina.github.io/pumpkin-book>
 - 《Data Scientist Handbook》<https://bookdown.org/BaktiSiregar/data-science-for-beginners/>
+- 《Bayesian Data Analysis, 3rd》贝叶斯数据分析第三版 Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari and Donald Rubin <https://github.com/avehtari/BDA_course_Aalto> PDF 下载 <https://users.aalto.fi/~ave/BDA3.pdf>
+- 《Foundations of Machine Learning, 2nd》机器学习基石 Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar https://cs.nyu.edu/~mohri/mlbook/ PDF 下载 <https://www.dropbox.com/s/7voitv0vt24c88s/10290.pdf>
+- 《Pattern Recognition and Machine Learning》模式识别与机器学习 Christopher Bishop <https://www.microsoft.com/en-us/research/people/cmbishop/> PDF 下载 <https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf>
 
 以及课程资源：
 
