@@ -103,6 +103,7 @@
 - 《快乐的 Linux 命令行》Peter Wang 和 Billie Zhang <https://billie66.github.io/TLCL/>
 - 《Linux 就该这么学》刘遄 <https://www.linuxprobe.com/docs/LinuxProbe.pdf>
 - 《Docker 从入门到实践》 <https://vuepress.mirror.docker-practice.com/>
+- 《Git教程》 廖雪峰 <https://www.liaoxuefeng.com/wiki/896043488029600>
 
 以及了解一些大数据处理工具
 
