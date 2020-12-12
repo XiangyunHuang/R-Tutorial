@@ -46,6 +46,7 @@
 - blogdown: Creating Websites with R Markdown <https://bookdown.org/yihui/blogdown/>
 - R Markdown: The Definitive Guide <https://bookdown.org/yihui/rmarkdown/>
 - Reproducible Research with R and RStudio <https://github.com/christophergandrud/Rep-Res-Book>
+- 一份其实很短的 LaTeX 入门文档 <https://liam.page/2014/09/08/latex-introduction/>
 
 与 shiny 相关：
 
