@@ -8,6 +8,7 @@
 - 《R 语言高频问题》<https://cran.r-project.org/doc/contrib/Liu-FAQ.pdf> 由刘思喆收集自中文论坛，非 Kurt Hornik 维护的官方文档
 - 《R 和 **tidyverse** 快速入门》 <https://github.com/saghirb/Getting-Started-in-R>  Saghir Bashir
 - 《R 和 **tinyverse** 快速入门》 <https://github.com/eddelbuettel/gsir-te> Dirk Eddelbuettel
+- 《数据科学卡片》<https://github.com/aaronwangy/Data-Science-Cheatsheet>  Aaron Wang
 
 适合入门的书籍：
 
@@ -24,6 +25,7 @@
 - 《Big Book of R》R 语言学习资源集散地 <https://bigbookofr.netlify.app/>
 - 《Data Science in Education Using R》数据科学在教育领域中的应用 <https://datascienceineducation.com/>
 - 《Statistical Modeling and Computation for Educational Scientists》统计建模和计算在教育科学中的应用 <https://zief0002.github.io/modeling/>
+- 《Learning statistics with R》<https://learningstatisticswithr.com/> 学习统计与 R 语言
 
 与数据可视化相关：
 
@@ -55,15 +57,30 @@
 与统计推断相关：
 
 - 《Computer Age Statistical Inference: Algorithms, Evidence and Data Science》 Bradley Efron 和 Trevor Hastie <https://web.stanford.edu/~hastie/CASI/>
+
 - 《Spatio-Temporal Statistics with R》 Christopher K. Wikle, Andrew Zammit-Mangion, and Noel Cressie <https://spacetimewithr.org/>
+
 - 《Geocomputation with R》 Robin Lovelace, Jakub Nowosad, Jannes Muenchow <https://geocompr.robinlovelace.net/>
+
 - 《Bayesian inference with INLA》Virgilio Gómez-Rubio <https://becarioprecario.bitbucket.io/inla-gitbook/>
+
 - 《Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA》Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue <https://becarioprecario.bitbucket.io/spde-gitbook/>
+
 - 《Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny》 Paula Moraga <https://www.paulamoraga.com/book-geospatial/>
+
 - 《Spatial Data Science》 Edzer Pebesma and Roger Bivand <https://www.r-spatial.org/book>
+
 - 《All Models Are Wrong: Concepts of Statistical Learning》[Gaston Sanchez](https://www.gastonsanchez.com/) and Ethan Marzban <https://allmodelsarewrong.github.io/>
+
 - 《Statistical Inference via Data Science: A ModernDive into R and the Tidyverse》 Chester Ismay and Albert Y. Kim <https://moderndive.com/>
+
 - 《Statistical Learning From A Regression Perspective》 Richard A. Berk
+
+- 计算生物的统计和概率基础 [Statistics and Probability Primer (for Computational Biologists)](https://michael.hahsler.net/SMU/EMIS7332/primers/prob_stat_primer.pdf)
+
+- 生态学入门与 R 语言 [Primer of Ecology using R](https://hankstevens.github.io/Primer-of-Ecology) Hank Stevens
+
+  
 
 与机器学习相关：
 
@@ -73,6 +90,9 @@
 - 《Bayesian Data Analysis, 3rd》贝叶斯数据分析第三版 Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari and Donald Rubin <https://github.com/avehtari/BDA_course_Aalto> PDF 下载 <https://users.aalto.fi/~ave/BDA3.pdf>
 - 《Foundations of Machine Learning, 2nd》机器学习基石 Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar https://cs.nyu.edu/~mohri/mlbook/ PDF 下载 <https://www.dropbox.com/s/7voitv0vt24c88s/10290.pdf>
 - 《Pattern Recognition and Machine Learning》模式识别与机器学习 Christopher Bishop <https://www.microsoft.com/en-us/research/people/cmbishop/> PDF 下载 <https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf>
+- 《Machine Learning: A Bayesian and Optimization Perspective》 <https://iie.fing.edu.uy/~nacho/docs/libros/machine_learning_a_bayesian_perspective.pdf>
+- 《Probabilistic Machine Learning: An Introduction》 https://github.com/probml/pml-book 提供 PDF 电子版下载
+- 《线性规划》https://github.com/Operations-Research-Science/Ebook-Linear_Programming
 
 以及课程资源：
 
@@ -103,6 +123,7 @@
 - 《快乐的 Linux 命令行》Peter Wang 和 Billie Zhang <https://billie66.github.io/TLCL/>
 - 《Linux 就该这么学》刘遄 <https://www.linuxprobe.com/docs/LinuxProbe.pdf>
 - 《Docker 从入门到实践》 <https://vuepress.mirror.docker-practice.com/>
+- 《AWK 程序设计语言》<https://github.com/wuzhouhui/awk>
 
 以及了解一些大数据处理工具
 
