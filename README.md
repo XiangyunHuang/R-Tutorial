@@ -41,6 +41,7 @@
 - Documentation for R's internal C API <https://github.com/hadley/r-internals>
 - Advanced R <https://adv-r.hadley.nz/>
 - R Packages <https://r-pkgs.org/>
+- R Developer’s Guide <https://forwards.github.io/rdevguide/>
 
 与写书、建站相关：
 
@@ -57,7 +58,7 @@
 与统计推断相关：
 
 - 《Computer Age Statistical Inference: Algorithms, Evidence and Data Science》 Bradley Efron 和 Trevor Hastie <https://web.stanford.edu/~hastie/CASI/>
-
+- 《Analyzing US Census Data: Methods, Maps, and Models in R》 Kyle Walker <https://walker-data.com/census-r>
 - 《Spatio-Temporal Statistics with R》 Christopher K. Wikle, Andrew Zammit-Mangion, and Noel Cressie <https://spacetimewithr.org/>
 
 - 《Geocomputation with R》 Robin Lovelace, Jakub Nowosad, Jannes Muenchow <https://geocompr.robinlovelace.net/>
@@ -79,6 +80,8 @@
 - 计算生物的统计和概率基础 [Statistics and Probability Primer (for Computational Biologists)](https://michael.hahsler.net/SMU/EMIS7332/primers/prob_stat_primer.pdf)
 
 - 生态学入门与 R 语言 [Primer of Ecology using R](https://hankstevens.github.io/Primer-of-Ecology) Hank Stevens
+
+- 《Regression Modeling Strategies》Frank E Harrell Jr <https://hbiostat.org/doc/rms.pdf>
 
   
 
