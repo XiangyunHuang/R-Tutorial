@@ -26,6 +26,7 @@
 - 《Data Science in Education Using R》数据科学在教育领域中的应用 <https://datascienceineducation.com/>
 - 《Statistical Modeling and Computation for Educational Scientists》统计建模和计算在教育科学中的应用 <https://zief0002.github.io/modeling/>
 - 《Learning statistics with R》<https://learningstatisticswithr.com/> 学习统计与 R 语言
+- 《R Notes for Professionals book》<https://goalkicker.com/RBook/>
 
 与数据可视化相关：
 
@@ -58,32 +59,28 @@
 与统计推断相关：
 
 - 《Computer Age Statistical Inference: Algorithms, Evidence and Data Science》 Bradley Efron 和 Trevor Hastie <https://web.stanford.edu/~hastie/CASI/>
+- 《All Models Are Wrong: Concepts of Statistical Learning》[Gaston Sanchez](https://www.gastonsanchez.com/) and Ethan Marzban <https://allmodelsarewrong.github.io/>
+- 《Statistical Inference via Data Science: A ModernDive into R and the Tidyverse》 Chester Ismay and Albert Y. Kim <https://moderndive.com/>
+- 《Statistical Learning From A Regression Perspective》 Richard A. Berk
+- 《Regression Modeling Strategies》Frank E Harrell Jr <https://hbiostat.org/doc/rms.pdf>
+- 《Regression and Other Stories》 Andrew Gelman, Jennifer Hill, and Aki Vehtari <https://users.aalto.fi/~ave/ROS.pdf>
+
+与空间统计相关：
+
 - 《Analyzing US Census Data: Methods, Maps, and Models in R》 Kyle Walker <https://walker-data.com/census-r>
 - 《Spatio-Temporal Statistics with R》 Christopher K. Wikle, Andrew Zammit-Mangion, and Noel Cressie <https://spacetimewithr.org/>
-
 - 《Geocomputation with R》 Robin Lovelace, Jakub Nowosad, Jannes Muenchow <https://geocompr.robinlovelace.net/>
-
 - 《Bayesian inference with INLA》Virgilio Gómez-Rubio <https://becarioprecario.bitbucket.io/inla-gitbook/>
-
 - 《Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA》Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue <https://becarioprecario.bitbucket.io/spde-gitbook/>
-
 - 《Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny》 Paula Moraga <https://www.paulamoraga.com/book-geospatial/>
-
 - 《Spatial Data Science》 Edzer Pebesma and Roger Bivand <https://www.r-spatial.org/book>
 
-- 《All Models Are Wrong: Concepts of Statistical Learning》[Gaston Sanchez](https://www.gastonsanchez.com/) and Ethan Marzban <https://allmodelsarewrong.github.io/>
+与生态学相关：
 
-- 《Statistical Inference via Data Science: A ModernDive into R and the Tidyverse》 Chester Ismay and Albert Y. Kim <https://moderndive.com/>
-
-- 《Statistical Learning From A Regression Perspective》 Richard A. Berk
-
+- [PDF 书稿](https://math.mcmaster.ca/~bolker/emdbook/book.pdf) 生态模型 [Ecological Models and Data in R](https://math.mcmaster.ca/~bolker/emdbook/)
 - 计算生物的统计和概率基础 [Statistics and Probability Primer (for Computational Biologists)](https://michael.hahsler.net/SMU/EMIS7332/primers/prob_stat_primer.pdf)
-
 - 生态学入门与 R 语言 [Primer of Ecology using R](https://hankstevens.github.io/Primer-of-Ecology) Hank Stevens
 
-- 《Regression Modeling Strategies》Frank E Harrell Jr <https://hbiostat.org/doc/rms.pdf>
-
-  
 
 与机器学习相关：
 
@@ -121,13 +118,37 @@
 
 除了 R 语言，我们还需要掌握一点和命令行相关的东西，比如 Bash 和 Makefile 等。
 
+- 《Git 的奇技淫巧》 <https://github.com/521xueweihan/git-tips>
 - 《Bash 教程》阮一峰 <https://github.com/wangdoc/bash-tutorial>
 - 《跟我一起写 Makefile》陈浩 <https://github.com/seisman/how-to-write-makefile>
 - 《快乐的 Linux 命令行》Peter Wang 和 Billie Zhang <https://billie66.github.io/TLCL/>
 - 《Linux 就该这么学》刘遄 <https://www.linuxprobe.com/docs/LinuxProbe.pdf>
 - 《Docker 从入门到实践》 <https://vuepress.mirror.docker-practice.com/>
 - 《AWK 程序设计语言》<https://github.com/wuzhouhui/awk>
+- Linux Tips, Tricks and Tutorials <https://linuxize.com/> 
+- Linux 命令手册 <https://man.linuxde.net/>
+- [阮一峰](https://github.com/ruanyf), 2021. <https://wangdoc.com/>
+- SSH  教程, 阮一峰, 2021. <https://wangdoc.com/ssh/>
+- Bash 脚本教程, 阮一峰, 2021. <https://wangdoc.com/bash/>
+- Bash 参考手册, 阮一峰, 2021. <https://www.gnu.org/software/bash/manual/html_node/index.html>
+- Gawk 参考手册 <https://www.gnu.org/software/gawk/manual/html_node/index.html>
+- Sed  参考手册 <https://www.gnu.org/software/sed/manual/html_node/index.html>
+- Make 参考手册 <https://www.gnu.org/software/make/manual/html_node/index.html>
+- Grep 参考手册 <https://www.gnu.org/software/grep/manual/html_node/index.html>
 
-以及了解一些大数据处理工具
+以及了解一些大数据处理工具:
 
+- 15 天入门 SQL 查询 <https://github.com/songxxiao/sqlexam>
 - 大数据入门指南 <https://github.com/heibaiying/BigData-Notes>
+- 架构师技术图谱 <https://github.com/toutiaoio/awesome-architecture>
+
+一些基础算法:
+
+- 小浩算法 <https://github.com/geekxh/hello-algorithm>
+- labuladong 的算法小抄 <https://github.com/labuladong/fucking-algorithm>
+
+
+其它语言:
+
+- 《Effective Modern C++》翻译 <https://github.com/kelthuzadx/EffectiveModernCppChinese>
+
