@@ -27,6 +27,7 @@
 - 《Statistical Modeling and Computation for Educational Scientists》统计建模和计算在教育科学中的应用 <https://zief0002.github.io/modeling/>
 - 《Learning statistics with R》<https://learningstatisticswithr.com/> 学习统计与 R 语言
 - 《R Notes for Professionals book》<https://goalkicker.com/RBook/>
+- 《R for Geographic Data Science》Stefano De Sabbata <https://sdesabbata.github.io/r-for-geographic-data-science/>
 
 与数据可视化相关：
 
@@ -51,12 +52,12 @@
 - R Markdown: The Definitive Guide <https://bookdown.org/yihui/rmarkdown/>
 - Reproducible Research with R and RStudio <https://github.com/christophergandrud/Rep-Res-Book>
 
-与 shiny 相关：
+Shiny 相关：
 
 - 《Engineering Production-Grade Shiny Apps》 Colin Fay, Sébastien Rochette, Vincent Guyader 和 Cervan Girard <https://engineering-shiny.org/>
 - 《Mastering Shiny》Hadley Wickham <https://mastering-shiny.org/>
 
-与统计推断相关：
+统计推断：
 
 - 《Computer Age Statistical Inference: Algorithms, Evidence and Data Science》 Bradley Efron 和 Trevor Hastie <https://web.stanford.edu/~hastie/CASI/>
 - 《All Models Are Wrong: Concepts of Statistical Learning》[Gaston Sanchez](https://www.gastonsanchez.com/) and Ethan Marzban <https://allmodelsarewrong.github.io/>
@@ -64,8 +65,11 @@
 - 《Statistical Learning From A Regression Perspective》 Richard A. Berk
 - 《Regression Modeling Strategies》Frank E Harrell Jr <https://hbiostat.org/doc/rms.pdf>
 - 《Regression and Other Stories》 Andrew Gelman, Jennifer Hill, and Aki Vehtari <https://users.aalto.fi/~ave/ROS.pdf>
+- 《Gaussian process modeling, design and optimization for the applied sciences》 Robert B. Gramacy <https://bookdown.org/rbg/surrogates/>
 
-与空间统计相关：
+
+空间统计书籍：
+
 
 - 《Analyzing US Census Data: Methods, Maps, and Models in R》 Kyle Walker <https://walker-data.com/census-r>
 - 《Spatio-Temporal Statistics with R》 Christopher K. Wikle, Andrew Zammit-Mangion, and Noel Cressie <https://spacetimewithr.org/>
@@ -74,12 +78,44 @@
 - 《Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA》Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue <https://becarioprecario.bitbucket.io/spde-gitbook/>
 - 《Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny》 Paula Moraga <https://www.paulamoraga.com/book-geospatial/>
 - 《Spatial Data Science》 Edzer Pebesma and Roger Bivand <https://www.r-spatial.org/book>
+- 《An Introduction to Spatial Data Analysis and Statistics: A Course in R》 Antonio Paez <https://paezha.github.io/spatial-analysis-r/>
+- 《Predictive Soil Mapping with R》 Tomislav Hengl and Robert A. MacMillan <https://soilmapper.org/>
+- 《Applied Spatial Data Analysis with R》Roger S. Bivand, Edzer Pebesma and V. Gómez-Rubio <https://asdar-book.org/>
+- 《Introduction to Environmental Data Science》 Jerry Davis, SFSU Institute for Geographic Information Science <https://bookdown.org/igisc/EnvDataSci/>
+- 《Geospatial Data Science With R: Applications in Environmental Geography》Michael C. Wimberly <https://bookdown.org/mcwimberly/gdswr-book/>
+- 《Spatial sampling with R》Dick Brus <https://github.com/DickBrus/SpatialSamplingwithR>
+
+空间统计课程材料：
+
+- [Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/) 空间统计导论
+- [Introduction to spatial analysis in R](https://github.com/jafflerbach/spatial-analysis-R) 空间分析导论
+- [Analysis of Spatial and Temporal Data](https://web.stanford.edu/class/stats253/lectures.html) [课程列表](https://web.calpoly.edu/~dsun09/teaching.html)
+- [A curated list of resources focused on Machine Learning in Geospatial Data Science.](https://github.com/deepVector/geospatial-machine-learning)
+- [A list of useful resources for getting started with spatial data in R](https://github.com/rspatialladies/rspatial-resources)
+- [An Introduction to Spatial Econometrics in R](https://ignaciomsarmiento.github.io/2017/02/07/An-Introduction-to-Spatial-Econometrics-in-R) 空间计量经济
+- [空间广义线性混合效应模型及其应用](https://xiangyunhuang.github.io/Thesis-Template-Bookdown/)
+- [Data wrangling visualisation and spatial analysis: R Workshop](https://www.seascapemodels.org/data/data-wrangling-spatial-course.html)
+
 
 与生态学相关：
 
-- [PDF 书稿](https://math.mcmaster.ca/~bolker/emdbook/book.pdf) 生态模型 [Ecological Models and Data in R](https://math.mcmaster.ca/~bolker/emdbook/)
-- 计算生物的统计和概率基础 [Statistics and Probability Primer (for Computational Biologists)](https://michael.hahsler.net/SMU/EMIS7332/primers/prob_stat_primer.pdf)
-- 生态学入门与 R 语言 [Primer of Ecology using R](https://hankstevens.github.io/Primer-of-Ecology) Hank Stevens
+- [Ecological Models and Data in R](https://math.mcmaster.ca/~bolker/emdbook/) [PDF 书稿](https://math.mcmaster.ca/~bolker/emdbook/book.pdf) 生态模型 
+- [Statistics and Probability Primer (for Computational Biologists)](https://michael.hahsler.net/SMU/EMIS7332/primers/prob_stat_primer.pdf) 计算生物的统计和概率基础 
+- [Primer of Ecology using R](https://hankstevens.github.io/Primer-of-Ecology) 生态学入门与 R 语言  Hank Stevens
+- [Spatial Data Analysis in Ecology and Agriculture using R](https://psfaculty.plantsciences.ucdavis.edu/plant/sda2.htm)
+- [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) 生态学数据分析与可视化
+- [Beginner's guide to spatial, temporal and spatial-temporal ecological data analysis with R-INLA](http://highstat.com/index.php/beginner-s-guide-to-regression-models-with-spatial-and-temporal-correlation)
+- Environmental and Ecological Statistics with R. Quiang, S.
+
+
+与流行病学相关：
+
+- Statistical Methods in Spatial Epidemiology **Second Edition** [Andrew B. Lawson](http://people.musc.edu/~abl6/)
+- Bayesian Disease Mapping Hierarchical Modeling in Spatial Epidemiology **Second Edition** [Andrew B. Lawson](http://people.musc.edu/~abl6/)
+- Handbook of Spatial Epidemiology [Andrew B. Lawson](http://people.musc.edu/~abl6/)
+- [Geostatistical mapping examples in R](https://github.com/thengl/GEOSTAT) loaloa 数据集
+- [Geostatistical data: Malaria in The Gambia](https://paula-moraga.github.io/tutorial-geostatistical-data) [Paula Moraga](https://paula-moraga.github.io/)
+- [Areal data. Lung cancer risk in Pennsylvania](https://paula-moraga.github.io/tutorial-areal-data/)
 
 
 与机器学习相关：
@@ -99,6 +135,7 @@
 - CS229: Machine Learning 机器学习课程 <http://cs229.stanford.edu/>
 - Statistical Learning 统计学习课程 Trevor Hastie and Rob Tibshirani <https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/>
 - Data wrangling, exploration, and analysis with R 数据加工、探索和分析 Jenny Bryan <https://stat545.com/>
+
 
 还有各类食谱：
 
