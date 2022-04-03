@@ -134,7 +134,7 @@ Shiny 相关：
 - 《Spatial sampling with R》Dick Brus <https://github.com/DickBrus/SpatialSamplingwithR>
 - 《Spatial Point Patterns: Methodology and Applications with R》Adrian Baddeley, Ege Rubak and Rolf Turner <https://book.spatstat.org/>
 
-空间统计课程材料：
+空间统计材料：
 
 - [Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/) 空间统计导论
 - [Introduction to spatial analysis in R](https://github.com/jafflerbach/spatial-analysis-R) 空间分析导论
@@ -160,8 +160,8 @@ Shiny 相关：
 
 与生态学相关：
 
-- [Ecological Models and Data in R](https://math.mcmaster.ca/~bolker/emdbook/) [PDF 书稿](https://math.mcmaster.ca/~bolker/emdbook/book.pdf) 生态模型 
-- [Statistics and Probability Primer (for Computational Biologists)](https://michael.hahsler.net/SMU/EMIS7332/primers/prob_stat_primer.pdf) 计算生物的统计和概率基础 
+- [Ecological Models and Data in R](https://math.mcmaster.ca/~bolker/emdbook/) [PDF 书稿](https://math.mcmaster.ca/~bolker/emdbook/book.pdf) 生态模型
+- [Statistics and Probability Primer (for Computational Biologists)](https://michael.hahsler.net/SMU/EMIS7332/primers/prob_stat_primer.pdf) 计算生物的统计和概率基础
 - [Primer of Ecology using R](https://hankstevens.github.io/Primer-of-Ecology) 生态学入门与 R 语言  Hank Stevens
 - [Spatial Data Analysis in Ecology and Agriculture using R](https://psfaculty.plantsciences.ucdavis.edu/plant/sda2.htm)
 - [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) 生态学数据分析与可视化
