@@ -637,10 +637,6 @@
 
 表 1: 空间统计相关的 R 包作者
 
-
-
-
-
 ```r
 # 获取 R 包元数据
 Sys.setenv(R_CRAN_WEB = "https://mirrors.tuna.tsinghua.edu.cn/CRAN")
@@ -652,7 +648,7 @@ gh_repo <- function(x) {
   unlist(lapply(x, function(x) x[grepl(pattern = "github.com", x)]))
 }
 
-# 提取 R Shiny 应用使用的 R 包及其基本描述
+# 提取描述中提及 [Ss]patial 的 R 包列表
 sub_pdb <- subset(
   x = pdb, subset = grepl(x = Description, "[Ss]patial"),
   select = c("Maintainer", "Package", "Title", "URL", "BugReports")
@@ -673,4 +669,3 @@ knitr::kable(sub_pdb2,
   col.names = c("维护者", "R 包", "简介")
 )
 ```
-
