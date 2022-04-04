@@ -161,7 +161,7 @@ Shiny 相关：
 - [Song Qian](https://www.utoledo.edu/nsm/envsciences/faculty/qian.html)
 - [Alain F. Zuur](https://www.highstat.com/)
 
-更多学者见[列表](spatial-statistics-maintainer)
+更多学者见[列表](spatial-statistics-maintainer.md)。
 
 与生态学相关：
 
