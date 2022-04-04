@@ -21,12 +21,12 @@
 - 《The Art of R Programming》<http://heather.cs.ucdavis.edu/~matloff/132/NSPpart.pdf>
 - 《Hands-On Programming with R》 <https://web.itu.edu.tr/~tokerem/Hands-On_R.pdf>
 - 《Learning R》 <https://web.itu.edu.tr/~tokerem/Learning_R.pdf>
-- 《R for Data Science》 <http://r4ds.had.co.nz/>
+- 《R for Data Science》Hadley Wickham and Garrett Grolemund <http://r4ds.had.co.nz/>
 - 《Data Science for Psychologists》心理学家的数据科学 <https://bookdown.org/hneth/ds4psy/>
 - 《Big Book of R》R 语言学习资源集散地 <https://bigbookofr.netlify.app/>
 - 《Data Science in Education Using R》数据科学在教育领域中的应用 <https://datascienceineducation.com/>
 - 《Statistical Modeling and Computation for Educational Scientists》统计建模和计算在教育科学中的应用 <https://zief0002.github.io/modeling/>
-- 《Learning statistics with R》<https://learningstatisticswithr.com/> 学习统计与 R 语言
+- 《Learning statistics with R》学习统计与 R 语言 <https://learningstatisticswithr.com/>
 - 《R Notes for Professionals book》<https://goalkicker.com/RBook/>
 - 《R for Geographic Data Science》Stefano De Sabbata <https://sdesabbata.github.io/r-for-geographic-data-science/>
 - 《Improving Your Statistical Inferences》Daniël Lakens <https://lakens.github.io/statistical_inferences/>
@@ -93,7 +93,7 @@ Shiny 相关：
 - 《Statistical Learning From A Regression Perspective》 Richard A. Berk
 - 《Regression Modeling Strategies: With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis》Frank E Harrell Jr <https://hbiostat.org/doc/rms.pdf> <https://hbiostat.org/rms/>
 - 《Regression and Other Stories》 Andrew Gelman, Jennifer Hill, and Aki Vehtari <https://users.aalto.fi/~ave/ROS.pdf>
-- 《Gaussian process modeling, design and optimization for the applied sciences》 Robert B. Gramacy <https://bookdown.org/rbg/surrogates/>
+- 《Gaussian process modeling, design and optimization for the applied sciences》 [Robert B. Gramacy](https://bobby.gramacy.com/surrogates/) [网页版](https://bookdown.org/rbg/surrogates/) [PDF](http://bobby.gramacy.com/surrogates/surrogates.pdf)
 - 《Tidy Modeling with R》 Max Kuhn and Julia Silge <https://www.tmwr.org/>
 - 《Introduction to Categorical Data Analysis》Alan Agresti <https://mregresion.files.wordpress.com/2012/08/agresti-introduction-to-categorical-data.pdf>
 - 《Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R》Paul Roback and Julie Legler <https://bookdown.org/roback/bookdown-BeyondMLR/>
@@ -148,6 +148,7 @@ Shiny 相关：
 
 空间统计领域学者：
 
+- [Håvard Rue](https://cemse.kaust.edu.sa/bayescomp)
 - [Andrew O. Finley](https://www.finley-lab.com/)
 - [Peter J. Diggle](https://www.lancaster.ac.uk/staff/diggle/)
 - [Emanuele Giorgi](https://www.lancaster.ac.uk/staff/giorgi/)
@@ -157,6 +158,10 @@ Shiny 相关：
 - [Alan E. Gelfand](https://www2.stat.duke.edu/~alan/)
 - [Benjamin M. Taylor](https://github.com/bentaylor1)
 - [Zhan Zhao](https://zhanzhaowf.github.io/)
+- [Song Qian](https://www.utoledo.edu/nsm/envsciences/faculty/qian.html)
+- [Alain F. Zuur](https://www.highstat.com/)
+
+更多学者见[列表](spatial-statistics-maintainer)
 
 与生态学相关：
 
@@ -166,7 +171,8 @@ Shiny 相关：
 - [Spatial Data Analysis in Ecology and Agriculture using R](https://psfaculty.plantsciences.ucdavis.edu/plant/sda2.htm)
 - [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) 生态学数据分析与可视化
 - [Beginner's guide to spatial, temporal and spatial-temporal ecological data analysis with R-INLA](http://highstat.com/index.php/beginner-s-guide-to-regression-models-with-spatial-and-temporal-correlation)
-- 《Environmental and Ecological Statistics with R》 Quiang, S. <https://github.com/songsqian/eesR>
+- 《Environmental and Ecological Statistics with R》 Song S. Qian <https://github.com/songsqian/eesR>
+- 《Bayesian Applications in Environmental and Ecological Studies with R and Stan》 Song S. Qian <https://github.com/songsqian/BeesRStan>
 
 与流行病学相关：
 
@@ -217,10 +223,6 @@ Shiny 相关：
 - 《线性规划》<https://github.com/Operations-Research-Science/Ebook-Linear_Programming>
 - 《Machine Learning Systems: Design and Implementation》机器学习系统：设计和实现 <https://github.com/openmlsys/openmlsys-zh>
 - 《Mathematics for Machine Learning》Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. <https://mml-book.github.io/> [PDF](https://mml-book.github.io/book/mml-book.pdf)
-- [ ] [Python Machine Learning (3rd edition)](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
-- [ ] [Building Machine Learning Powered Applications Going from Idea to Product](https://mlpowered.com/book/)
-- [ ] [机器学习的数学基础](https://gwthomas.github.io/docs/math4ml.pdf)
-- [ ] [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
 - 《Machine Learning: a Probabilistic Perspective》 机器学习：概率视角 [补充材料](https://github.com/probml/pmtk3) [PDF](https://github.com/Jing--Li/book)
   - 书籍主页 <https://www.cs.ubc.ca/~murphyk/MLbook/>
   - 软件工具 Matlab/Octave
