@@ -133,6 +133,7 @@ Shiny 相关：
 - 《Geospatial Data Science With R: Applications in Environmental Geography》Michael C. Wimberly <https://bookdown.org/mcwimberly/gdswr-book/>
 - 《Spatial sampling with R》Dick Brus <https://github.com/DickBrus/SpatialSamplingwithR>
 - 《Spatial Point Patterns: Methodology and Applications with R》Adrian Baddeley, Ege Rubak and Rolf Turner <https://book.spatstat.org/>
+- 《Bayesian Modeling of Spatio-Temporal Data with R》 Sujit K. Sahu <https://www.sujitsahu.com/bookbmstdr/>
 
 空间统计材料：
 
