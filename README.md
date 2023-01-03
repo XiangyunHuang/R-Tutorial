@@ -33,7 +33,7 @@
 - 《数据科学入门》 [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) Rafael A. Irizarry
 - [John H. Maindonald](https://maths-people.anu.edu.au/~johnm/) [Using R for Data Analysis and Graphics](https://maths-people.anu.edu.au/~johnm/r/usingR.pdf) 后来演变为 [Data Analysis and Graphics Using R-3rd-2010](https://maths-people.anu.edu.au/~johnm/r-book/daagur3.html) 数据集和函数存放在 DAAG 包里，第四版正在进行中，手稿可在作者主页上获得。
 - 应用时间序列分析与R语言 [Time Series Analysis with Applications in R](http://homepage.divms.uiowa.edu/~kchan/TSA.htm)
-- 时间序列预测预测：原理与实践 [Forecasting: Principles and Practice](https://www.otexts.org/fpp2/) [Rob J Hyndman](https://robjhyndman.com/)
+- 时间序列预测：原理与实践 [Forecasting: Principles and Practice](https://www.otexts.org/fpp2/) [Rob J Hyndman](https://robjhyndman.com/)
 - 时间序列分析及其应用 [Time Series Analysis and Its Applications: With R Examples](https://www.stat.pitt.edu/stoffer/tsa4/)
 - 线性模型与R语言 [Extending the Linear Model with R](http://people.bath.ac.uk/jjf23/ELM/) [Julian Faraway](https://farawaystatistics.wordpress.com/)
 - 量化经济学与R语言 [Introduction to Econometrics with R](https://github.com/mca91/EconometricsWithR) 
@@ -63,6 +63,7 @@
 - 《可视化数据分析与 R 语言》 [Graphical Data Analysis with R](http://www.gradaanwr.net/)
 - [The Economist](https://github.com/TheEconomist)
 - [BBC](https://github.com/bbc)
+- [Gapminder](https://github.com/Gapminder)
 
 与编程开发相关：
 
@@ -294,7 +295,7 @@ Shiny 相关：
 4. 模型部署
 
    - Docker 入门 [A Docker Tutorial for Beginners](https://docker-curriculum.com/)
-   - Docker 从入门到实践 [docker practice](https://www.gitbook.com/book/yeasy/docker_practice)
+   - Docker 从入门到实践 [docker practice](https://yeasy.gitbook.io/docker_practice/)
    - [R, Databases, and Docker](https://smithjd.github.io/sql-pet/)
 
 更多在线书籍合集 <https://bookdown.org> ，学习 R 语言的天花板不在编程软件而在统计。
@@ -314,30 +315,3 @@ Shiny 相关：
 - Andrew Gelman <https://andrewgelman.com/>
 - Julia Silge <https://juliasilge.com/>
 - David Robinson <http://varianceexplained.org/>
-
-除了 R 语言，我们还需要掌握一点和命令行相关的东西，比如 Bash 和 Makefile 等。
-
-- 《Git 的奇技淫巧》 <https://github.com/521xueweihan/git-tips>
-- 《Bash 教程》阮一峰 <https://github.com/wangdoc/bash-tutorial>
-- 《跟我一起写 Makefile》陈浩 <https://github.com/seisman/how-to-write-makefile>
-- 《快乐的 Linux 命令行》Peter Wang 和 Billie Zhang <https://billie66.github.io/TLCL/>
-- 《Linux 就该这么学》刘遄 <https://www.linuxprobe.com/docs/LinuxProbe.pdf>
-- 《AWK 程序设计语言》<https://github.com/wuzhouhui/awk>
-- Linux Tips, Tricks and Tutorials <https://linuxize.com/>
-- Linux 命令手册 <https://man.linuxde.net/>
-- [阮一峰](https://github.com/ruanyf), 2021. <https://wangdoc.com/>
-- SSH  教程, 阮一峰, 2021. <https://wangdoc.com/ssh/>
-- Bash 脚本教程, 阮一峰, 2021. <https://wangdoc.com/bash/>
-- Bash 参考手册, 阮一峰, 2021. <https://www.gnu.org/software/bash/manual/html_node/index.html>
-
-以及了解一些大数据处理工具:
-
-- 15 天入门 SQL 查询 <https://github.com/songxxiao/sqlexam>
-- 大数据入门指南 <https://github.com/heibaiying/BigData-Notes>
-- 架构师技术图谱 <https://github.com/toutiaoio/awesome-architecture>
-
-一些基础算法:
-
-- 小浩算法 <https://github.com/geekxh/hello-algorithm>
-- labuladong 的算法小抄 <https://github.com/labuladong/fucking-algorithm>
-- 《Effective Modern C++》翻译 <https://github.com/kelthuzadx/EffectiveModernCppChinese>
