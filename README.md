@@ -188,6 +188,7 @@ Shiny 相关：
 与机器学习相关：
 
 - 《Foundations of Machine Learning》 机器学习基础第二版  [PDF](https://cs.nyu.edu/~mohri/mlbook/)
+- 《Mathematical Analysis of Machine Learning Algorithms》 Tong Zhang [PDF](https://tongzhang-ml.org/papers/lt-book.pdf)
 - 《Foundations of Data Science》 数据科学基础 [PDF](https://www.cs.cornell.edu/jeh/)
 - 《强化学习中文教程（蘑菇书）》<https://github.com/datawhalechina/easy-rl>
 - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
@@ -237,33 +238,6 @@ Shiny 相关：
 - 《分类与回归：caret 包》 **C**lassification **A**nd **RE**gression **T**raining. Max Kuhn. <https://topepo.github.io/caret/>
 - 《Mastering Spark with R》 Javier Luraschi, Kevin Kuo, Edgar Ruiz. <https://therinspark.com>
 
-以及课程资源：
-
-- CS229: Machine Learning 机器学习课程 <http://cs229.stanford.edu/>
-- Statistical Learning 统计学习课程 Trevor Hastie and Rob Tibshirani <https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/>
-- Data wrangling, exploration, and analysis with R 数据加工、探索和分析 Jenny Bryan <https://stat545.com/>
-- [Machine Learning and Computational Statistics](http://davidrosenberg.github.io/ml2015/#home)
-- [Machine Learning](http://www.cs.cmu.edu/~tom/10701_sp11/hws.shtml) 卡内基梅隆大学课程
-- [Deep Learning](http://eclass.cc/courselists/117_deep_learning)
-- [Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html) 概率图模型-卡内基梅隆大学
-- [Learning Deep Learning](http://rt.dgyblog.com/ref/ref-learning-deep-learning.html) 课程资料大集合
-- [Theoretical Machine Learning](http://www.cs.princeton.edu/courses/archive/spring14/cos511/schedule.html)
-- [机器学习算法观](http://people.csail.mit.edu/moitra/409.html)
-- [Introduction to Machine Learning](http://www.cs.berkeley.edu/~jrs/189/) 机器学习导论课程
-- [2017-李宏毅深度学习](http://www.bilibili.com/video/av9770302/)
-- [为什么我们需要机器学习](https://v.qq.com/x/page/t0384c1p2em.html) 《机器学习中的神经网络》
-- [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-- [深入理解 RNNs & LSTM 网络学习资料](http://www.jianshu.com/p/c930d61e1f16?from=timeline)
-- [TensorFlow 中文社区](http://tensorfly.cn/)
-- [Deep Learning in Energy Production context (wind, gas and oil)](https://amundtveit.com/)
-- [Off the convex path](http://www.offconvex.org/)
-- [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
-- [Time Series Prediction With Deep Learning in Keras - Machine Learning Mastery](http://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/)
-- [Keras R](https://flovv.github.io/Logo_detection_transfer_learning/) 迁移学习
-- [Information Systems Research](https://www.is.uni-freiburg.de/)
-- [Neural Networks from Scratch, in R](http://blog.revolutionanalytics.com/2017/07/nnets-from-scratch.html)
-- [李宏毅机器学习笔记](http://blog.csdn.net/soulmeetliang)
-- [Center for Machine Learning and Intelligent Systems | University of California, Irvine](http://cml.ics.uci.edu/)
 
 统计软件：
 
