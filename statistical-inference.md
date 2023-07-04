@@ -1,0 +1,34 @@
+## 统计推断
+
+- 《Computer Age Statistical Inference: Algorithms, Evidence and Data Science》 Bradley Efron 和 Trevor Hastie <https://web.stanford.edu/~hastie/CASI/>
+- 《All Models Are Wrong: Concepts of Statistical Learning》[Gaston Sanchez](https://www.gastonsanchez.com/) and Ethan Marzban <https://allmodelsarewrong.github.io/>
+- 《Statistical Inference via Data Science: A ModernDive into R and the Tidyverse》 Chester Ismay and Albert Y. Kim <https://moderndive.com/>
+- 《Statistical Learning From A Regression Perspective》 Richard A. Berk
+- 《Regression Modeling Strategies: With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis》Frank E Harrell Jr <https://hbiostat.org/doc/rms.pdf> <https://hbiostat.org/rms/>
+- 《Regression and Other Stories》 Andrew Gelman, Jennifer Hill, and Aki Vehtari <https://users.aalto.fi/~ave/ROS.pdf>
+- 《Gaussian process modeling, design and optimization for the applied sciences》 [Robert B. Gramacy](https://bobby.gramacy.com/surrogates/) [网页版](https://bookdown.org/rbg/surrogates/) [PDF](http://bobby.gramacy.com/surrogates/surrogates.pdf)
+- 《Tidy Modeling with R》 Max Kuhn and Julia Silge <https://www.tmwr.org/>
+- 《Introduction to Categorical Data Analysis》Alan Agresti <https://mregresion.files.wordpress.com/2012/08/agresti-introduction-to-categorical-data.pdf>
+- 《Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R》Paul Roback and Julie Legler <https://bookdown.org/roback/bookdown-BeyondMLR/>
+- 《All of Statistics: A Concise Course in Statistical Inference》Larry Wasserman <https://www.stat.cmu.edu/~larry/all-of-statistics/>
+- 《Multivariate Kernel Smoothing and Its Applications》José Chacón and Tarn Duong <http://www.mvstat.net/mvksa>  [PDF](http://www.mvstat.net/mvksa/mvksa.pdf)
+- 《Theory of Statistics》 [James E. Gentle](https://mason.gmu.edu/~jgentle/) [PDF](https://mason.gmu.edu/~jgentle/books/MathStat.pdf)
+- 《The Boosttrap and Edgeworth Expansion》蒙特卡洛、Boostrap、非参数分布 Michael I. Jordan [PDF](https://people.eecs.berkeley.edu/~jordan/sail/readings/edgeworth.pdf)
+- 《Handbook of mathematical functions》 数学函数手册大全 <http://people.math.sfu.ca/~cbm/aands/frameindex.htm>
+- 《Graphical models, exponential families, and variational inference》
+  - Foundations and Trends in Machine Learning. Vol.1
+  - 图模型 指数族 变分推断 M. J. Wainwright and M. I. Jordan [PDF](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
+- 《High-dimensional statistics: A non-asymptotic viewpoint》 [Martin J. Wainwright](https://people.eecs.berkeley.edu/~wainwrig)
+- 《The Elements of Statistical Learning: Data Mining, Inference, and Prediction》
+  - 书籍主页 <https://web.stanford.edu/~hastie/ElemStatLearn/>
+  - The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答
+  - [Lijun Wang](https://hohoweiya.xyz/) <https://github.com/szcf-weiya/ESL-CN>
+- 《An Introduction to Statistical Learning with Applications in R》 <https://www-bcf.usc.edu/~gareth/ISL/>
+- 《Statistical Learning with Sparsity: The Lasso and Generalizations》 <https://web.stanford.edu/~hastie/StatLearnSparsity/>
+- 《Statistical Learning from a Regression Perspective》
+  - 书籍主页 <https://www.springer.com/gp/book/9783319440477>
+  - John L. Weatherwax [学习笔记](https://waxworksmath.com/Authors/A_F/Berk/WriteUp/Weatherwax_Berk_Notes.pdf)
+- 《Convergence of Stochastic Processes》 随机过程的收敛性 [PDF](http://www.stat.yale.edu/~pollard/Books/1984book/pollard1984.pdf)
+- 《Bayesian Filtering and Smoothing》Simo Särkkä [PDF](https://users.aalto.fi/~ssarkka/pub/bfs_book_2023_online.pdf)
+- 《概率论与数理统计教程》茆诗松等 [源码](https://github.com/re-book/ptmst)
+
